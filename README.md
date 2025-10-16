@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student at IME (Instituto Militar de Engenharia), Rio de Janeiro<br><br>🧠 Coordinator of the Computing Division at IME Junior, leading projects using Next.js, React Native, Expo, and Firebase<br><br>🔬 Researcher in Quantum Information and Computation, supported by a CNPq Scientific Research Grant<br><br>📘 Math enthusiast, training for University-Level Mathematics Olympiads<br><br>
+🎓 Computer Engineering student at IME (Instituto Militar de Engenharia), Rio de Janeiro<br><br>🧠 Coordinator of the Computing Division at IME Junior, leading projects using Next.js, React Native, Expo, and Firebase<br><br>🔬 Researcher in Quantum Information and Computation, supported by a CNPq Scientific Research Grant<br><br>📘 Math enthusiast <br><br>
 
 
 ## 🌐 Socials:
