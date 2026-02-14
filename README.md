@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student at IME (Instituto Militar de Engenharia), Rio de Janeiro<
+🎓 Computer Engineering student at IME (Instituto Militar de Engenharia), Rio de Janeiro
 
 
 ## 🌐 Socials:
